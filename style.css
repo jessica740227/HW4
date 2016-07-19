@@ -1,0 +1,15 @@
+.box1 {
+    width: 0px;
+    height: 0px;
+    margin: 30px 0px;
+    border: solid 50px;
+    border-color: green red blue yellow;
+}
+.box2 {
+    display: inline-block;
+    width: 0px;
+    max-height: 50px;
+    border-left:50px solid #04298d;
+    border-top:50px solid #91e1ff;
+    border-right:50px solid #2c57e5;
+}
